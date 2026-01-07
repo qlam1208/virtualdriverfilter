@@ -1,0 +1,5 @@
+﻿  Driver.c
+  Operations.c
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/RELEASE' specification
+  virtualdriverfilter.vcxproj -> C:\Users\admin\source\repos\virtualdriverfilter\x64\Debug\virtualdriverfilter.sys
